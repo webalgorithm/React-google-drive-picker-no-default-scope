@@ -1,6 +1,6 @@
 {
   "name": "react-google-drive-picker-no-default-scope",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "React google drive picker api without any default scopes",
   "types": "./dist",
   "main": "./dist/index.js",
@@ -27,7 +27,7 @@
     "picker"
   ],
   "devDependencies": {
-    "@types/react": "^17.0.5",
+    "@types/react": "^17.0.60",
     "@typescript-eslint/eslint-plugin": "^4.23.0",
     "@typescript-eslint/parser": "^4.23.0",
     "eslint": "^7.26.0",
