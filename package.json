@@ -1,6 +1,6 @@
 {
   "name": "react-google-drive-picker-no-default-scope",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "React google drive picker api without any default scopes",
   "types": "./dist",
   "main": "./dist/index.js",
